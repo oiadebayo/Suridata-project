@@ -76,3 +76,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#  Example Output:
+# [('John', 'Alice'), ('Bob', 'John'), ('Abiodun', 'Jane'), ('Iyanu', 'Abiodun'), ('Alice', 'Bob'), ('Jane', 'Iyanu')]
